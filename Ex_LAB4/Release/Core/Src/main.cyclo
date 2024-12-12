@@ -1,0 +1,9 @@
+../Core/Src/main.c:59:6:ToggleLED1	1
+../Core/Src/main.c:62:6:ToggleLED2	1
+../Core/Src/main.c:65:6:ToggleLED3	1
+../Core/Src/main.c:68:6:ToggleLED4	1
+../Core/Src/main.c:71:6:ToggleLED5	1
+../Core/Src/main.c:132:6:SystemClock_Config	3
+../Core/Src/main.c:80:5:main	4
+../Core/Src/main.c:242:6:HAL_TIM_PeriodElapsedCallback	1
+../Core/Src/main.c:251:6:Error_Handler	1
